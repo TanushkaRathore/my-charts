@@ -1,0 +1,23 @@
+.container{
+    border: 3px solid black;
+    width: 50vw;
+    height: 50vh;
+    position: absolute;
+  cursor: move;
+  color: black;
+  max-width: 80%;
+  border-radius: 5px;
+  padding: 1em;
+  margin: auto;
+  user-select: none;
+
+}
+
+.resize {
+  padding: 20px; 
+  resize: both;
+  overflow: auto;
+}
+
+
+

@@ -1,0 +1,7 @@
+.Chart-wrapper {
+  left: 0;
+  top: 50px;
+  border: 1px solid black;
+  width: 400px;
+  position: absolute;
+}
